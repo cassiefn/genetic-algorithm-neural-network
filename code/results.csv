@@ -1,0 +1,4 @@
+,dataset,isClassification,hiddenLayers,method,accuracy,precision,recall,NRMSE
+0,forestfires,False,0,['GA'],0,0,0,0.06700709885912916
+1,forestfires,False,1,['GA'],0,0,0,0.06473156261468661
+2,forestfires,False,2,['GA'],0,0,0,0.06562473970075121
